@@ -1,0 +1,22 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+
+# Ingnore input data
+data/
+
+# Ignore local source_me containing API key env var
+source_me
+
+# Ignore output files and directories
+output/
+images/
+text_output_folder/
+
+# Ignore IDE-specific files and directories
+.vscode/
+.idea/
+
+# Ignore virtual environment
+venv/
