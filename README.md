@@ -122,5 +122,3 @@ If you have any concerns or encounter any issues with the output, please refer t
 
 In this updated version of the disclaimer, the "Trademark Disclaimer" section has been modified to remove the specific reference to Amazon and its Textract service. Instead, it now states that TextractAI is not affiliated with any companies or services that may have similar names or offer similar functionalities.
 
-The disclaimer emphasizes that the use of the name "TextractAI" is intended to describe the project's functionality and does not imply any connection or affiliation with existing trademarks or services. It also encourages users to contact the project maintainers if they have any concerns regarding potential trademark infringement.
-
