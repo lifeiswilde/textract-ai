@@ -6,7 +6,7 @@ TextractAI is a Python-based project that extracts text from PDF files, processe
 
 Despite advancements in OCR technology, achieving perfect accuracy remains a challenge. The quality of the extracted text often depends on factors such as image resolution, font variations, layout complexities, and noise in the document.
 
-TextractAI aims to address these limitations and enhance the accuracy of text recognition from documents. By leveraging a combination of OCR techniques and advanced natural language processing capabilities, TextractAI goes beyond traditional OCR approaches to deliver more reliable and precise text extraction results.
+TextractAI aims to address these limitations and enhance the accuracy of text recognition from documents. By leveraging a combination of OCR techniques and LLMs (OpenAI), TextractAI goes beyond traditional OCR approaches to deliver more reliable and precise text extraction results.
 
 ## Features
 
