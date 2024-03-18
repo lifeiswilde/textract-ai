@@ -119,6 +119,3 @@ Acknowledgment and Acceptance
 By using TextractAI, you acknowledge and accept these disclaimers and limitations. Always exercise prudence and human judgment when working with automatically extracted and processed text.
 
 If you have any concerns or encounter any issues with the output, please refer to the original PDF files and consult with the appropriate subject matter experts or legal professionals as needed.
-
-In this updated version of the disclaimer, the "Trademark Disclaimer" section has been modified to remove the specific reference to Amazon and its Textract service. Instead, it now states that TextractAI is not affiliated with any companies or services that may have similar names or offer similar functionalities.
-
