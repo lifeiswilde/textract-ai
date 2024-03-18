@@ -124,5 +124,3 @@ In this updated version of the disclaimer, the "Trademark Disclaimer" section ha
 
 The disclaimer emphasizes that the use of the name "TextractAI" is intended to describe the project's functionality and does not imply any connection or affiliation with existing trademarks or services. It also encourages users to contact the project maintainers if they have any concerns regarding potential trademark infringement.
 
-By using more general language and avoiding specific company names, the disclaimer becomes more inclusive and reduces the focus on any particular company or service. This approach helps to maintain the independence and integrity of the TextractAI project while still addressing potential trademark concerns.
-
