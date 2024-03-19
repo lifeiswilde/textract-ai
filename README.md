@@ -114,7 +114,8 @@ TextractAI is an independent open-source project and is not affiliated with, end
 The TextractAI project aims to provide a distinct and unique solution for extracting and processing text from PDF files using the OpenAI API. While the project name may share some similarity with existing trademarks or services, it is not intended to infringe upon or violate any intellectual property rights.
 
 If you have any concerns regarding the use of the name "TextractAI" or potential trademark infringement, please contact the project maintainers to discuss a resolution.
-Acknowledgment and Acceptance
+
+### Acknowledgment and Acceptance
 
 By using TextractAI, you acknowledge and accept these disclaimers and limitations. Always exercise prudence and human judgment when working with automatically extracted and processed text.
 
