@@ -1,19 +1,19 @@
 import os
 import logging
+import constants
 from pathlib import Path
 from extract_text_from_images import extract_text_from_images
 from convert_pdf_to_images import convert_pdf_to_images
 from custom_openai_handler import create_client, process_text_with_openai
 from convert_jpg_to_png import convert_jpeg_to_png
 from argument_parse_handler import parse_arguments
-from constants import OPENAI_PROMPT
 
 logging.basicConfig(level=logging.INFO)
 
 def main():
     args = parse_arguments()
-    OPENAI_API_KEY = args.api_key or os.environ.get('OPENAI_API_KEY')
-    OPENAI_PROMPT = args.prompt or OPENAI_PROMPT
+    OPENAI_API_KEY = args.api_key
+    OPENAI_PROMPT = args.prompt
     
     client = create_client(OPENAI_API_KEY)
     file_name = os.path.join("data", args.file)
